@@ -12,4 +12,4 @@ My current and future work is centered around **web-based AI solutions, Machine 
 - Docker, MLOps, Git & GitHub
 
 ## Contact
-Reach out via **LinkedIn**.
+Feel free to reach out via **LinkedIn**.
