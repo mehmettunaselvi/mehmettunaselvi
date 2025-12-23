@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mehmettunaselvi/mehmettunaselvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I am a **Full-Stack AI Engineer** with a strong interest in **Artificial Intelligence and Cyber Security**.  
+I am passionate about building systems that **simplify human work, increase efficiency, and enable autonomous or semi-autonomous workflows** through AI-driven solutions.  
+My focus is on developing **security-aware LLM-based systems** and deploying them reliably into production environments.
 
-Here are some ideas to get you started:
+## Cyber Security Background
+- Security log analysis and technical interpretation  
+- Threat detection and investigation using EDR solutions  
+- Process tree analysis (suspicious process behavior and execution chains)  
+- Technical analysis and reporting of security incidents  
+- Fundamental penetration testing knowledge (web, system, and basic attack vectors)  
+- Strong networking knowledge (TCP/IP, DNS, routing, firewalls, segmentation)  
+- Developing AI and backend systems with a security-first mindset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am currently working on
+- LLM-based applications  
+- **Security-focused MCPs (Model Context Protocol)**  
+- Computer Vision solutions  
+- AI-integrated, security-aware backend systems
+
+## AI / LLM Technical Expertise
+- Large Language Models (LLMs)  
+- Prompt engineering and optimization  
+- Retrieval Augmented Generation (RAG) architectures  
+- Security-focused MCP design and usage  
+- AI agent architectures and task orchestration  
+- Backend integration of LLM-driven systems
+
+## Software & Full-Stack
+- **Backend:** Django  
+- API development  
+- Security-oriented backend implementations  
+- Git & GitHub
+
+## Deployment & MLOps
+- Containerized deployment with Docker  
+- MLOps workflows  
+- Model versioning and production deployment  
+- Operating AI systems in production environments
+
+## Technology Stack (Summary)
+- AI / ML, LLMs, RAG, MCP  
+- Computer Vision  
+- Cyber Security, EDR, pentesting basics, networking  
+- Django, APIs  
+- Docker, MLOps  
+- Git & GitHub
+
+## Contact
+If you would like to get in touch, please reach out via **LinkedIn**.
