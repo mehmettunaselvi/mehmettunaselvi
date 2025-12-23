@@ -20,25 +20,11 @@ My focus is on developing **security-aware LLM-based systems** and deploying the
 - Computer Vision solutions  
 - AI-integrated, security-aware backend systems
 
-## AI / LLM Technical Expertise
-- Large Language Models (LLMs)  
-- Prompt engineering and optimization  
-- Retrieval Augmented Generation (RAG) architectures  
-- Security-focused MCP design and usage  
-- AI agent architectures and task orchestration  
-- Backend integration of LLM-driven systems
-
 ## Software & Full-Stack
 - **Backend:** Django  
 - API development  
 - Security-oriented backend implementations  
 - Git & GitHub
-
-## Deployment & MLOps
-- Containerized deployment with Docker  
-- MLOps workflows  
-- Model versioning and production deployment  
-- Operating AI systems in production environments
 
 ## Technology Stack (Summary)
 - AI / ML, LLMs, RAG, MCP  
